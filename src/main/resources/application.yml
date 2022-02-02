@@ -1,0 +1,6 @@
+spring:
+  profiles: dev
+
+external-url: http://localhost:8080
+
+
